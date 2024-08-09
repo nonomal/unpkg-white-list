@@ -1,6 +1,6 @@
 {
   "name": "unpkg-white-list",
-  "version": "1.102.0",
+  "version": "1.109.0",
   "description": "npmmirror 允许开启 unpkg 功能的白名单列表，避免 https://x.com/fengmk2/status/1791498406923215020 类似问题",
   "main": "index.js",
   "files": [],
@@ -12,7 +12,7 @@
   "devDependencies": {
     "eslint": "8",
     "eslint-config-egg": "14",
-    "semver": "^7.6.2"
+    "semver": "7"
   },
   "repository": {
     "type": "git",
@@ -70,6 +70,7 @@
     "@galacean",
     "@gedit",
     "@fontsource",
+    "@fontsource-variable",
     "@fortawesome",
     "@fullcalendar",
     "@goldfishjs",
@@ -158,6 +159,7 @@
     "@octokit",
     "@okamjs",
     "@paciolan",
+    "@pagefind",
     "@pansy",
     "@parcel",
     "@patternfly",
@@ -235,9 +237,23 @@
     "@imgly",
     "@yuntijs",
     "@chinese-fonts",
-    "@xterm"
+    "@xterm",
+    "@phosphor-icons",
+    "@adpro"
   ],
   "allowPackages": {
+    "xingzhengqu": {
+      "version": "*"
+    },
+    "oh-my-live2d": {
+      "version": "*"
+    },
+    "plyr": {
+      "version": "*"
+    },
+    "rapidoc": {
+      "version": "*"
+    },
     "oml2d-models": {
       "version": "*"
     },
@@ -253,6 +269,9 @@
     "papaparse": {
       "version": "*"
     },
+    "hexo-theme-cards": {
+      "version": "*"
+    },
     "hexo-theme-redefine": {
       "version": "*"
     },
@@ -263,6 +282,9 @@
       "version": "*"
     },
     "@itchenliang/picture-rollup-local-plugin": {
+      "version": "*"
+    },
+    "@imagemagick/magick-wasm": {
       "version": "*"
     },
     "twikoo": {
@@ -551,6 +573,9 @@
       "version": "*"
     },
     "@fal-works/esbuild-plugin-global-externals": {
+      "version": "*"
+    },
+    "@fancyapps/fancybox": {
       "version": "*"
     },
     "@fancyapps/ui": {
@@ -1799,6 +1824,9 @@
       "version": "*"
     },
     "apk-parser3": {
+      "version": "*"
+    },
+    "aplayer": {
       "version": "*"
     },
     "apmp": {
@@ -6052,6 +6080,9 @@
     "flex.css": {
       "version": "*"
     },
+    "flexsearch": {
+      "version": "*"
+    },
     "flipsnap": {
       "version": "*"
     },
@@ -7049,6 +7080,9 @@
       "version": "*"
     },
     "highlighter": {
+      "version": "*"
+    },
+    "highlightjs-copy": {
       "version": "*"
     },
     "highlightjs-solidity": {
@@ -9520,6 +9554,9 @@
     "medium-zoom": {
       "version": "*"
     },
+    "meting": {
+      "version": "*"
+    },
     "mem": {
       "version": "*"
     },
@@ -9686,6 +9723,9 @@
       "version": "*"
     },
     "miniprogram-text-encoder": {
+      "version": "*"
+    },
+    "minisearch": {
       "version": "*"
     },
     "miniu": {
@@ -17353,6 +17393,9 @@
     "web-highlighter": {
       "version": "*"
     },
+    "web-serial-polyfill": {
+      "version": "*"
+    },
     "web-streams-polyfill": {
       "version": "*"
     },
@@ -18001,6 +18044,12 @@
     "zw-lowcode-plugin-code-editor": {
       "version": "*"
     },
+    "zw-lowcode-preset-plugin": {
+      "version": "*"
+    },
+    "adl-lowcode-preset-plugin": {
+      "version": "*"
+    },
     "jspdf-pro": {
       "version": "*"
     },
@@ -18406,6 +18455,21 @@
     "@tiptap/extension-link": {
       "version": "*"
     },
+    "@tiptap/vue-3": {
+      "version": "*"
+    },
+    "vue3-marquee": {
+      "version": "*"
+    },
+    "vue3-popper": {
+      "version": "*"
+    },
+    "vue3-guides": {
+      "version": "*"
+    },
+    "vue3-datepicker-ui": {
+      "version": "*"
+    },
     "cookie-es": {
       "version": "*"
     },
@@ -18421,7 +18485,43 @@
     "suimi-fonts": {
       "version": "*"
     },
+    "@docsearch/css": {
+      "version": "*"
+    },
     "ufo": {
+      "version": "*"
+    },
+    "live2d-widget": {
+      "version": "*"
+    },
+    "vue-draggable-plus": {
+      "version": "*"
+    },
+    "suimi-js-css": {
+      "version": "*"
+    },
+    "altcha": {
+      "version": "*"
+    },
+    "rough-viz": {
+      "version": "*"
+    },
+    "@vue-office/docx": {
+      "version": "*"
+    },
+    "@vue-office/excel": {
+      "version": "*"
+    },
+    "@vue-office/pdf": {
+      "version": "*"
+    },
+    "jsyw-lowcode-material-antd": {
+      "version": "*"
+    },
+    "lowcode-simple-form": {
+      "version": "*"
+    },
+    "mitang-cdn": {
       "version": "*"
     }
   }

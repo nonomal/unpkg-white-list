@@ -1,5 +1,72 @@
 # Changelog
 
+## [1.109.0](https://github.com/cnpm/unpkg-white-list/compare/v1.108.0...v1.109.0) (2024-08-09)
+
+
+### Features
+
+* add `minisearch` ([#241](https://github.com/cnpm/unpkg-white-list/issues/241)) ([094857c](https://github.com/cnpm/unpkg-white-list/commit/094857cb19ac5e092eb86ed441e971889343434f))
+
+## [1.108.0](https://github.com/cnpm/unpkg-white-list/compare/v1.107.0...v1.108.0) (2024-08-08)
+
+
+### Features
+
+* add `[@pagefind](https://github.com/pagefind)` and `flexsearch` ([#240](https://github.com/cnpm/unpkg-white-list/issues/240)) ([f270edf](https://github.com/cnpm/unpkg-white-list/commit/f270edf9815443ace34bb2ff251a5dcd969d7e81))
+
+## [1.107.0](https://github.com/cnpm/unpkg-white-list/compare/v1.106.0...v1.107.0) (2024-08-07)
+
+
+### Features
+
+* add web-serial-polyfill ([#239](https://github.com/cnpm/unpkg-white-list/issues/239)) ([7788e30](https://github.com/cnpm/unpkg-white-list/commit/7788e30275194296e9d3acb9d845b5b1316f62b0))
+
+## [1.106.0](https://github.com/cnpm/unpkg-white-list/compare/v1.105.0...v1.106.0) (2024-08-06)
+
+
+### Features
+
+* [@adpro](https://github.com/adpro) scope ([#238](https://github.com/cnpm/unpkg-white-list/issues/238)) ([fc9d71f](https://github.com/cnpm/unpkg-white-list/commit/fc9d71f93d94f08c026229f943d247e8fc130f1b))
+
+## [1.105.0](https://github.com/cnpm/unpkg-white-list/compare/v1.104.0...v1.105.0) (2024-08-05)
+
+
+### Features
+
+* add adl-lowcode-preset-plugin ([#237](https://github.com/cnpm/unpkg-white-list/issues/237)) ([2eebeaf](https://github.com/cnpm/unpkg-white-list/commit/2eebeafc6b35c936e30e470d77545d785acc72dd))
+* add altcha ([#236](https://github.com/cnpm/unpkg-white-list/issues/236)) ([ad802b7](https://github.com/cnpm/unpkg-white-list/commit/ad802b7f441bacd703c8a9d820030127f7e36514))
+* add aplayer and meting ([#230](https://github.com/cnpm/unpkg-white-list/issues/230)) ([b359a69](https://github.com/cnpm/unpkg-white-list/commit/b359a69368e92f4cffc95864fd2e6026fad1623a))
+* add highlightjs-copy ([#228](https://github.com/cnpm/unpkg-white-list/issues/228)) ([603cf69](https://github.com/cnpm/unpkg-white-list/commit/603cf6947a669c749da1d836e45465f9521f32d9))
+* add lowcode-simple-form & jsyw-lowcode-material-antd ([#231](https://github.com/cnpm/unpkg-white-list/issues/231)) ([965543f](https://github.com/cnpm/unpkg-white-list/commit/965543fb27675efe282e97001d1e518e85faa667))
+* add mitang-cdn ([#229](https://github.com/cnpm/unpkg-white-list/issues/229)) ([cbac3cf](https://github.com/cnpm/unpkg-white-list/commit/cbac3cf1ba29d7ce22264cdc17a1191030d39885))
+* add oh-my-live2d ([#234](https://github.com/cnpm/unpkg-white-list/issues/234)) ([33532f8](https://github.com/cnpm/unpkg-white-list/commit/33532f8003c1f6c00f6e6df904c2691df8f297d1))
+* add phosphor-icons ([#227](https://github.com/cnpm/unpkg-white-list/issues/227)) ([78dc71e](https://github.com/cnpm/unpkg-white-list/commit/78dc71ef3941500ae75f5cb6fbf7aae2839482f0))
+* add plyr ([#226](https://github.com/cnpm/unpkg-white-list/issues/226)) ([b44ae5a](https://github.com/cnpm/unpkg-white-list/commit/b44ae5a482c3e5fcb88978b32fccc42bc431086e))
+* add rapidoc ([#225](https://github.com/cnpm/unpkg-white-list/issues/225)) ([5cf1fc9](https://github.com/cnpm/unpkg-white-list/commit/5cf1fc90ad3543519174975d8ae4f89ed6d1eb54))
+* add rough-viz、@vue-office/docx、@vue-office/excel、@vue-office/pdf ([#233](https://github.com/cnpm/unpkg-white-list/issues/233)) ([f2dcc82](https://github.com/cnpm/unpkg-white-list/commit/f2dcc82994bdaaa03add758b55b9918165c0f073))
+* add xingzhengqu ([#235](https://github.com/cnpm/unpkg-white-list/issues/235)) ([c69133e](https://github.com/cnpm/unpkg-white-list/commit/c69133ed1ddb00d33347613a714829ed23587dc8))
+
+## [1.104.0](https://github.com/cnpm/unpkg-white-list/compare/v1.103.0...v1.104.0) (2024-07-21)
+
+
+### Features
+
+* add [@fontsource-variable](https://github.com/fontsource-variable) ([#224](https://github.com/cnpm/unpkg-white-list/issues/224)) ([8e1b821](https://github.com/cnpm/unpkg-white-list/commit/8e1b821484bcebab227e85ccb97b483fc328587d))
+* add [@tiptap](https://github.com/tiptap),marquee,popper,guides,datepicker-ui ([#222](https://github.com/cnpm/unpkg-white-list/issues/222)) ([f801550](https://github.com/cnpm/unpkg-white-list/commit/f80155011c847ab2bc888a680657773882958fa5))
+* add hexo-theme-cards, @fancyapps/fancybox ([#223](https://github.com/cnpm/unpkg-white-list/issues/223)) ([17a2f38](https://github.com/cnpm/unpkg-white-list/commit/17a2f385a5e391a7ac8eff8bd12166b7607dfbb1))
+
+## [1.103.0](https://github.com/cnpm/unpkg-white-list/compare/v1.102.0...v1.103.0) (2024-07-19)
+
+
+### Features
+
+* add @docsearch/css ([#217](https://github.com/cnpm/unpkg-white-list/issues/217)) ([cbefcab](https://github.com/cnpm/unpkg-white-list/commit/cbefcabedfe332a55a4e869fcd458c8774f791ad))
+* add @imagemagick/magick-wasm ([#218](https://github.com/cnpm/unpkg-white-list/issues/218)) ([ff4a229](https://github.com/cnpm/unpkg-white-list/commit/ff4a22997bfef02ed06c5381532c36ca23944d64))
+* add live2d-widget ([#216](https://github.com/cnpm/unpkg-white-list/issues/216)) ([8cbf0a8](https://github.com/cnpm/unpkg-white-list/commit/8cbf0a88f959d3184e646cc0ed2d0f8d62b470f5))
+* add suimi-js-css ([#215](https://github.com/cnpm/unpkg-white-list/issues/215)) ([51a8b57](https://github.com/cnpm/unpkg-white-list/commit/51a8b57da7caa8d1428c8a989dac0be35c9895b8))
+* add vue-draggable-plus ([#219](https://github.com/cnpm/unpkg-white-list/issues/219)) ([dd4fcd9](https://github.com/cnpm/unpkg-white-list/commit/dd4fcd9c3c7f75118bc9d8b6a5657b85203903d3))
+* add zw-lowcode-preset-plugin ([#220](https://github.com/cnpm/unpkg-white-list/issues/220)) ([1418db9](https://github.com/cnpm/unpkg-white-list/commit/1418db9003245b08404840781877fa41a6fbffa7))
+
 ## [1.102.0](https://github.com/cnpm/unpkg-white-list/compare/v1.101.0...v1.102.0) (2024-07-14)
 
 
